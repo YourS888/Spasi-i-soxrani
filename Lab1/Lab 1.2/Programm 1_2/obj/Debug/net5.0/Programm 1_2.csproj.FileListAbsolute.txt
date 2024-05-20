@@ -1,0 +1,15 @@
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\bin\Debug\net5.0\Programm 1_2.exe
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\bin\Debug\net5.0\Programm 1_2.deps.json
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\bin\Debug\net5.0\Programm 1_2.runtimeconfig.json
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\bin\Debug\net5.0\Programm 1_2.runtimeconfig.dev.json
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\bin\Debug\net5.0\Programm 1_2.dll
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\bin\Debug\net5.0\Programm 1_2.pdb
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.AssemblyInfoInputs.cache
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.AssemblyInfo.cs
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.csproj.CoreCompileInputs.cache
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.dll
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\refint\Programm 1_2.dll
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.pdb
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\Programm 1_2.genruntimeconfig.cache
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_1\Lab 1.2\Programm 1_2\obj\Debug\net5.0\ref\Programm 1_2.dll

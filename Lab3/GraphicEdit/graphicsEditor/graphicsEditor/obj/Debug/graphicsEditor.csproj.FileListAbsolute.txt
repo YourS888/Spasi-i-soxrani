@@ -1,0 +1,11 @@
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\bin\Debug\graphicsEditor.exe.config
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\bin\Debug\graphicsEditor.exe
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\bin\Debug\graphicsEditor.pdb
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.csproj.AssemblyReference.cache
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.simpEditor.resources
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.InputDialog.resources
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.Properties.Resources.resources
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.csproj.GenerateResource.cache
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.csproj.CoreCompileInputs.cache
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.exe
+C:\Users\osipo\Downloads\Labs-main (1)\Labs-main\Lab_3\GraphicEdit\graphicsEditor\graphicsEditor\obj\Debug\graphicsEditor.pdb
